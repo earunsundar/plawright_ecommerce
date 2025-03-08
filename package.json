@@ -1,0 +1,22 @@
+{
+  "name": "plawright_ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earunsundar/plawright_ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earunsundar/plawright_ecommerce/issues"
+  },
+  "homepage": "https://github.com/earunsundar/plawright_ecommerce#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
